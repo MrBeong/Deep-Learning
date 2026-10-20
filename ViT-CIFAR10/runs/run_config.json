@@ -1,0 +1,10 @@
+{
+  "epochs": 6,
+  "batch_size": 128,
+  "train_per_class": 700,
+  "val_per_class": 200,
+  "test_per_class": 300,
+  "seed": 42,
+  "device": "cpu",
+  "torch": "2.11.0"
+}

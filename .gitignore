@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+ViT-CIFAR10/data/
+ViT-CIFAR10/outputs/
+*.pt
+*.pth
+.env
+.env.*
